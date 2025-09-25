@@ -17,3 +17,8 @@ UPDATE Member SET email = 'bob@mail.com' WHERE name = 'Bob';
 
 -- Delete record
 DELETE FROM Book WHERE title = '1984';
+
+-- Insert borrow records
+INSERT INTO Borrow (member_id, book_id, borrow_date, return_date) VALUES
+(1, 1, '2025-02-01', '2025-02-15'),
+(2, 1, '2025-03-05', NULL);
