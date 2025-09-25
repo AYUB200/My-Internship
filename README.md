@@ -1,16 +1,5 @@
-Internship/
-│
-├── Task1_DatabaseSetup/
-│   ├── schema.sql          # Database schema (tables, keys, relationships)
-│   ├── er_diagram.png      # ER diagram of chosen domain
-│   └── README.md           # Documentation for Task 1
-│
-├── Task2_DataInsertion/
-│   ├── data.sql            # Insert, update, delete operations
-│   └── README.md           # Documentation for Task 2
-│
-├── Task3_SelectQueries/
-│   ├── queries.sql         # Basic SELECT queries with conditions
-│   └── README.md           # Documentation for Task 3
-│
-└── README.md               # Root project documentation (this file)
+### 📌 Folder Details
+- **Task1_DatabaseSetup/** → Contains schema design and ER diagram  
+- **Task2_DataInsertion/** → Insert, update, delete SQL operations  
+- **Task3_SelectQueries/** → Basic SQL queries with conditions  
+- **README.md** → Root documentation for the whole project  
