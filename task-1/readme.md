@@ -14,8 +14,9 @@ Learn to create databases, tables, and define relationships.
 MySQL Workbench / SQLiteStudio
 
 ## Deliverables
-- `schema.sql` → SQL script to create database and tables
+- `library-schema.sql` → SQL script to create database and tables
 - `er_diagram.png` → ER diagram
 
 ## Outcome
 A well-structured schema with primary keys and foreign key relationships.
+
